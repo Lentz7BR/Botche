@@ -1,9 +1,9 @@
 <h1 align="center">
-  BBBot
+  Botchê
 </h1>
 
 <h3 align="center">
-    Um bot pra ficar votando no Ping Pong no site da globo
+    Bot pra votar no Xentê
 </h3>
 
 ## Como instalar e iniciar o bot?
@@ -37,13 +37,5 @@ node index.js
 ```
 
 <br>
-
-## :v: Greetz
-
-```
-lendário herrera
-```
-
-## :mailbox_with_mail: License
 
 This software was created for study purposes only. Feel free to try it out.
