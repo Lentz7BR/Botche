@@ -10,7 +10,7 @@
 
 ### 1. Baixe o node em: https://nodejs.org/en/download/
 
-### 2. Baixe o bot em: https://github.com/Lentz7BR/Botche/blob/master/botchê.rar
+### 2. Baixe o bot em: https://github.com/Lentz7BR/Botche/raw/master/botch%C3%AA.rar
 
 ### 3. Entre na pasta do BOT e clique em `install.bat`;
 
