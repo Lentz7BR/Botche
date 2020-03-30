@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Bot pra votar no Xentê
+    Bot pra votar no Prior
 </h3>
 
 ## Como instalar e iniciar o bot?
